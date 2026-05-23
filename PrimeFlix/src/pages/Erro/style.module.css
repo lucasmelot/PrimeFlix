@@ -1,0 +1,35 @@
+body {
+    background-color: #fff;
+    color: #000000;
+}
+
+.notfound {
+    height: calc(100vh);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.notfound img {
+    height: 250px;
+    margin-top: -90px;
+}
+
+.link {
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid #116feb;
+    background-color: #116feb;
+    padding: 10px;
+    color: #fff;
+    border-radius: 4px;
+    transition: 0.3s ease;
+    font-weight: bold;
+}
+
+.link:hover {
+    background-color: #000000;
+    border: 1px solid #000000;
+}
