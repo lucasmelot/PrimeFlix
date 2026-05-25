@@ -40,7 +40,7 @@ function Home(){
     return(
         <div className={Styles.container}>
             <div className={Styles.listafilmes}>
-                {filmes.filter((filme, index) => index !== 12 && index !== 19)
+                {filmes.filter((filme, index) => filme.title !== "पति पत्नी और वो दो" && filme.title !== "सिस्टम")
                 .map((filme, index) => {
                     return(
                         <article key={index}>
