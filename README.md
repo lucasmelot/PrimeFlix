@@ -20,15 +20,15 @@ O projeto foi criado com foco em prática de integração com APIs reais, organi
 
 # ✨ Funcionalidades
 
-✅ Listagem de filmes utilizando a API do TMDB
-✅ Página de detalhes do filme
-✅ Sistema de favoritos
-✅ Aba "Meus Filmes"
-✅ Remoção de filmes salvos
-✅ Redirecionamento para trailer no YouTube
-✅ Layout responsivo
-✅ Notificações utilizando React Toastify
-✅ Tela de carregamento durante requisições da API
+✅ Listagem de filmes utilizando a API do TMDB  
+✅ Página de detalhes do filme  
+✅ Sistema de favoritos  
+✅ Aba "Meus Filmes"  
+✅ Remoção de filmes salvos  
+✅ Redirecionamento para trailer no YouTube  
+✅ Layout responsivo  
+✅ Notificações utilizando React Toastify  
+✅ Tela de carregamento durante requisições da API  
 ✅ Navegação entre páginas com React Router DOM
 
 ---
