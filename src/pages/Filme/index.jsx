@@ -3,7 +3,7 @@ import { useParams, useNavigate } from "react-router-dom";
 import Styles from "./style.module.css"
 import { toast } from "react-toastify";
 
-import api from "../../Services/api";
+import api from "../../services/api";
 
 function Filme() {
     const { id } = useParams()

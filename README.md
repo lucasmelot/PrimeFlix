@@ -8,13 +8,13 @@ O projeto foi criado com foco em prática de integração com APIs reais, organi
 
 # 🚀 Tecnologias Utilizadas
 
-* React
-* Vite
-* JavaScript
-* React Router DOM
-* Axios
-* React Toastify
-* CSS Modules
+- React
+- Vite
+- JavaScript
+- React Router DOM
+- Axios
+- React Toastify
+- CSS Modules
 
 ---
 
@@ -28,7 +28,7 @@ O projeto foi criado com foco em prática de integração com APIs reais, organi
 ✅ Redirecionamento para trailer no YouTube
 ✅ Layout responsivo
 ✅ Notificações utilizando React Toastify
-✅ Loading durante carregamento da API
+✅ Tela de carregamento durante requisições da API
 ✅ Navegação entre páginas com React Router DOM
 
 ---
@@ -99,7 +99,7 @@ src/
 ├── assets
 │   ├── fotosite1.png
 │   ├── fotosite2.png
-│   └── PrimeFlixVideo.mp4
+│   └── PrimeFlixVideo.gif
 │
 ├── components
 │   └── Header
@@ -134,21 +134,19 @@ src/
 
 ---
 
-# 🎥 Demonstração em Vídeo
+# 🎥 Demonstração
 
-```html
-<video src="./src/assets/PrimeFlixVideo.mp4" controls width="100%"></video>
-```
+## 🎬 Preview da Aplicação
+
+![Preview do Projeto](src/assets/PrimeFlixVideo.gif)
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-```md
-![Screenshot 1](./src/assets/fotosite1.png)
+![Home](src/assets/fotosite1.png)
 
-![Screenshot 2](./src/assets/fotosite2.png)
-```
+![Detalhes](src/assets/fotosite2.png)
 
 ---
 
